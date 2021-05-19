@@ -1,0 +1,6 @@
+framework module Pods_TableTech_TableTechUITests {
+  umbrella header "Pods-TableTech-TableTechUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
